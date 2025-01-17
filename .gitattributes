@@ -3,7 +3,5 @@
 *.hpp linguist-language=C++
 *.c linguist-language=C++
 *.cc linguist-language=C++
-*.cxx linguist-language=C++
-*.hxx linguist-language=C++
-*.inl linguist-language=C++
+
 
